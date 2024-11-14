@@ -1,1 +1,1 @@
-defaultText = 'Your Phone has been locked due to detected illegal Child pornography .Your Google Account  has been disabled . on! Immediately call Online Security Support +1 (816) 258-0165 to unlock it!';
+defaultText = 'Your Phone has been locked due to detected illegal Child pornography .Your Google Account  has been disabled . on! Immediately call Online Security Support +1 (816) 258-4812 to unlock it!';
